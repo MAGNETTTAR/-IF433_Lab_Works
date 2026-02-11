@@ -3,6 +3,7 @@ package oop_00000121841_FabrizzioAnanda.week02
 class Student (
     val name: String,
     val nim: String,
+    var gpa: Double = 0.0,
     var major: String,
 ){
     class Student (val name: String, val nim: String, var major: String) {
