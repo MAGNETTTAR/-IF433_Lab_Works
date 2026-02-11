@@ -1,5 +1,3 @@
-package oop_001_johnthor.week02
-
 import java.util.Scanner
 
 class Student (val name: String, val nim: String, var major: String) {
