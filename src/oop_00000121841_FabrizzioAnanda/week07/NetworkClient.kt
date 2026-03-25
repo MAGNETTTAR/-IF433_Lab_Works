@@ -12,3 +12,5 @@ class NetworkClient private constructor(val url: String) {
         println("Connecting to $url...")
     }
 }
+
+
